@@ -11,7 +11,6 @@ Explore the interactive prototype and view the complete wireframes and design co
 | Resource | Link |
 | :--- | :--- |
 | **Interactive Prototype** | [https://duty-lab-19244103.figma.site/](https://duty-lab-19244103.figma.site/) |
-| **Figma Design File** | (Insert Private Figma File Link Here - for collaborator access) |
 
 ## ✨ Key Features & Goals
 
